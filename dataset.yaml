@@ -1,0 +1,9 @@
+path: D:\\tinyyolo_sobah_apu\\dataset
+train: train/images
+val: val/images
+
+names:
+  0: buffalo
+  1: elephant
+  2: rhino
+  3: zebra
