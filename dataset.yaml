@@ -1,4 +1,4 @@
-path: D:\\tinyyolo_sobah_apu\\dataset
+path: dataset
 train: train/images
 val: val/images
 
