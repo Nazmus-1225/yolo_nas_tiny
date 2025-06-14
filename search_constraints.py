@@ -18,6 +18,6 @@ search_space = {
 
 constraints = {
     "max_model_size_kb": 900,     
-    "max_params_m": 1.0,           
+    "max_params_m": 0.5,           
     "max_gflops": 3.0              
 }
